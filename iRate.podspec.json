@@ -6,8 +6,7 @@
   "homepage": "https://github.com/nicklockwood/iRate",
   "authors": "Nick Lockwood",
   "source": {
-    "git": "https://github.com/nicklockwood/iRate.git",
-    "tag": "1.11.7"
+    "git": "https://github.com/catloafsoft/iRate.git"
   },
   "source_files": "iRate/iRate.{h,m}",
   "resources": "iRate/iRate.bundle",
